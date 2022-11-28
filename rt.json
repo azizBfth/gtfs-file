@@ -1,0 +1,163 @@
+header {
+  gtfs_realtime_version: "1.0"
+  incrementality: FULL_DATASET
+  timestamp: 1669294941
+}
+entity {
+  id: "1001038"
+  trip_update {
+    trip {
+      trip_id: "1001038"
+      start_date: "20221124"
+      schedule_relationship: SCHEDULED
+      route_id: "1001"
+    }
+    stop_time_update {
+      stop_sequence: 9
+      departure {
+        time: 1669295027
+      }
+      stop_id: "012"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 10
+      departure {
+        time: 1669295147
+      }
+      stop_id: "011"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 11
+      departure {
+        time: 1669295267
+      }
+      stop_id: "010"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 12
+      departure {
+        time: 1669295387
+      }
+      stop_id: "009"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 13
+      departure {
+        time: 1669295507
+      }
+      stop_id: "008"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 14
+      departure {
+        time: 1669295627
+      }
+      stop_id: "007"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 15
+      departure {
+        time: 1669295747
+      }
+      stop_id: "006"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 16
+      departure {
+        time: 1669295867
+      }
+      stop_id: "005"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 17
+      departure {
+        time: 1669295987
+      }
+      stop_id: "004"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 18
+      arrival {
+        time: 1669296107
+      }
+      stop_id: "001"
+      schedule_relationship: SCHEDULED
+    }
+    vehicle {
+      id: "242"
+    }
+    timestamp: 1669294935
+  }
+}
+entity {
+  id: "1001041"
+  trip_update {
+    trip {
+      trip_id: "1001041"
+      start_date: "20221124"
+      schedule_relationship: SCHEDULED
+      route_id: "1001"
+    }
+    stop_time_update {
+      stop_sequence: 2
+      departure {
+        time: 1669296227
+      }
+      stop_id: "002"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 3
+      departure {
+        time: 1669296347
+      }
+      stop_id: "003"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 4
+      departure {
+        time: 1669296407
+      }
+      stop_id: "004"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 5
+      departure {
+        time: 1669296467
+      }
+      stop_id: "005"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 6
+      departure {
+        time: 1669296587
+      }
+      stop_id: "006"
+      schedule_relationship: SCHEDULED
+    }
+    stop_time_update {
+      stop_sequence: 7
+      departure {
+        time: 1669296707
+      }
+      stop_id: "007"
+      schedule_relationship: SCHEDULED
+    }
+    vehicle {
+      id: "242"
+    }
+    timestamp: 1669294935
+  }
+}
